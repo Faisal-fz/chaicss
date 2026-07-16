@@ -188,6 +188,4 @@ console.log('Starting to apply Chai styles...', elements);
       }
     });
   });
-
-  return log;
 }
