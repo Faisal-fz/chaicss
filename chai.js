@@ -188,5 +188,5 @@ console.log('Starting to apply Chai styles...', elements);
       }
     });
   });
-  console.log('Starting to apply Chai styles...', elements);
+  console.log('Starting to apply Chai styles...and also checking the code review log', elements);
 }
